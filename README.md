@@ -33,3 +33,4 @@
        alt="bhaveshgadling77" />
 </p>
 
+![GitHub Metrics](https://github.com/bhaveshgadling77/bhaveshgadling77/blob/main/github-metrics.svg)
