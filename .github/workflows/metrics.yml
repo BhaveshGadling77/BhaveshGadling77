@@ -13,6 +13,6 @@ jobs:
           user: bhaveshgadling77
           template: classic
           config_timezone: Asia/Kolkata
-          config_theme: dark
           plugin_isocalendar: yes
+          config_theme: tokyonight
           plugin_isocalendar_duration: full-year
