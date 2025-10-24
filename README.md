@@ -17,6 +17,7 @@
 
 <p>
   <img align="left" 
+      height="195px"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshgadling77&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" 
        alt="bhaveshgadling77" />
 </p>
