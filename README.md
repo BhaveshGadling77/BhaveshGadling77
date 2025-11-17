@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Gadling</h1>
-<h3 align="center">It takes 10,000 hours to become good programmer</h3>
+<h3 align="center">Completing my 10,000 hours to become good programmer</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bhaveshgadling77&theme=radical" alt="bhaveshgadling77" />
