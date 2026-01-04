@@ -14,5 +14,5 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
-          config_theme: tokyonight_dark
+          config_theme: dracula
           plugin_isocalendar_duration: full-year
