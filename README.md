@@ -14,7 +14,7 @@ I am deeply passionate about software development, not just writing code but und
       </div>
 
 <p align="justify">
-My goal is to become a Software Engineer who transforms ideas into scalable, efficient, and meaningful solutions that solve real-world problems.
+My goal is to become a Software Engineer who transforms ideas into scalable, efficient, and meaningful solutions that solve real-world problems. I believe It takes 10,000 hours to become a good programmer.
 </p>
 
 <p>
@@ -24,30 +24,43 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </p>
     </td>
     <td align="center" width="35%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" style="border-radius:10px;" />
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" style="border-radius:10px;" height=200 />
     </td>
   </tr>
 </table>
 <h2 align="center">◆ Statistics ◆</h2>
-
+<table>
+<tr> 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshGadling77&theme=transparent" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshGadling77&theme=transparent&hide_border=true" height="160"/>
 </p>
+</tr>
+<tr> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshGadling77&theme=transparent" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshGadling77&theme=transparent&hide_border=true" height="160"/>
+</p>
+</tr> 
 
+<tr> 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhaveshGadling77&theme=transparent" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhaveshGadling77&theme=transparent&utcOffset=5.30" height="160"/>
 </p>
+</tr> 
 
+<tr> 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhaveshGadling77&theme=transparent"/>
 </p>
+</tr> 
+</table>
 
+<h2 align="center">◆ Tech Stack & Developer Tools </h2>
 <h3 align="center">🧠 Programming Languages</h3>
 <table align="center">
 <tr>
-
 <table align="center">
 <tr>
 <td align="center" width="120">
