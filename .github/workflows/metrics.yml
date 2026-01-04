@@ -11,7 +11,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: bhaveshgadling77
-          template: classic
+          template: terminal
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           config_theme: dracula
