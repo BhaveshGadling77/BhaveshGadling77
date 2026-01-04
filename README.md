@@ -36,12 +36,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshGadling77&theme=transparent&hide_border=true" height="160"/>
 </p>
 </tr>
-<tr> 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshGadling77&theme=transparent" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshGadling77&theme=transparent&hide_border=true" height="160"/>
-</p>
-</tr> 
+
 
 <tr> 
 <p align="center">
