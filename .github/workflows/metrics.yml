@@ -14,5 +14,5 @@ jobs:
           template: terminal
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
-          config_theme: dracula
+          config_theme: github_dark
           plugin_isocalendar_duration: full-year
