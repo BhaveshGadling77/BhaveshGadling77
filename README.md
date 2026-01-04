@@ -1,4 +1,4 @@
-<h2 align="center">◆ About ◆</h2>
+<h2 align="center"> About</h2>
 
 <p align="justify">
 I am deeply passionate about software development, not just writing code but understanding the systems and ideas behind it. I enjoy learning new technologies, building real-world projects, and solving challenging problems that push my technical limits. I believe consistent learning and practical application are the keys to becoming a strong engineer.
@@ -28,7 +28,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
     </td>
   </tr>
 </table>
-<h2 align="center">◆ Statistics ◆</h2>
+<h2 align="center"> Statistics </h2>
 <table>
 <tr> 
 <p align="center">
@@ -57,7 +57,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </tr> 
 </table>
 
-<h2 align="center">◆ Tech Stack & Developer Tools </h2>
+<h2 align="center"> Tech Stack & Developer Tools </h2>
 <h3 align="center">🧠 Programming Languages</h3>
 <table align="center">
 <tr>
