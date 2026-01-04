@@ -23,6 +23,6 @@ jobs:
           config_timezone: Asia/Kolkata
 
           # Isometric contribution calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_colors: "#216e39,#30a14e,#40c463,#9be9a8"
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
+          # plugin_isocalendar_colors: "#216e39,#30a14e,#40c463,#9be9a8"
