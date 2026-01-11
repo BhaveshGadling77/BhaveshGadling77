@@ -10,7 +10,7 @@ I am deeply passionate about software development, not just writing code but und
   <tr>
     <td width="65%">
       <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=0969DA&size=28&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Aspiring+Software+Engineer;Full+Stack+Developer;CyberSecurity+Enthusiast" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=0969DA&size=28&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Aspiring+Software+Engineer;Learning+Computer+Science;CyberSecurity+Enthusiast" />
       </div>
 
 <p align="justify">
