@@ -102,6 +102,9 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
 <br><b>Express.js</b>
 </td>
+<td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48"/>
+<br><b>Framer motion</b>
+</td>
 <td align="center" width="120">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
 <br><b>Tailwind CSS</b>
@@ -135,6 +138,16 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
 <br><b>Git</b>
+</td>
+<td align="center" width="120">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48"/>
+ <br><b> Postman</b>
+</td>
+<td align="center" width="120">
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+          
+ <br><b> Intellij</b>
 </td>
 </tr>
 </table>
