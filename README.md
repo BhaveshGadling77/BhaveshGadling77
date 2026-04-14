@@ -43,7 +43,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhaveshGadling77&theme=transparent" height="160"/>
 </p>
 </tr> 
-[![Bhavesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhaveshGadling77&bg_color=0d1117&color=58A6FF&line=58A6FF&point=1f6feb&area=true&area_color=58A6FF20&hide_border=true&custom_title=Bhavesh%20Gadling%20Contribution%20Graph)](https://github.com/BhaveshGadling77)
+![Bhavesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhaveshGadling77&bg_color=0d1117&color=58A6FF&line=58A6FF&point=1f6feb&area=true&area_color=58A6FF20&hide_border=true&custom_title=Bhavesh%20Gadling%20Contribution%20Graph)
 
 <tr> 
 <p align="center">
