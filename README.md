@@ -41,7 +41,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <tr> 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhaveshGadling77&theme=transparent" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhaveshGadling77&theme=transparent&utcOffset=5.30" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshGadling77&bg_color=00000&color=0969DA&line=0969DA&point=1f6feb&area=true&area_color=0969DA20&hide_border=true&custom_title=Contribution Graph" height="160"/>
 </p>
 </tr> 
 
@@ -134,4 +134,4 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </td>
 </tr>
 </table>
-
+[![Tejas's GitHub Activity Graph]()
