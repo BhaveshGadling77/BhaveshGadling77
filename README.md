@@ -145,7 +145,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </td>
 <td align="center" width="120">
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48"/>
           
  <br><b> Intellij</b>
 </td>
