@@ -111,6 +111,8 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
 <br><b>Tailwind CSS</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="120">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48"/>
 <br><b>Firebase</b>
@@ -141,6 +143,8 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
 <br><b>Git</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="120">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48"/>
  <br><b> Postman</b>
