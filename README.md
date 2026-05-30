@@ -37,7 +37,6 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </p>
 </tr>
 
-
 <tr> 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhaveshGadling77&theme=transparent" height="160"/>
@@ -65,10 +64,6 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
-<br><b>C</b>
-</td>
-<td align="center" width="120">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48"/>
 <br><b>C++</b>
 </td>
@@ -84,7 +79,33 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/>
 <br><b>JavaScript</b>
 </td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/>
+<br><b>Typescript</b>
+</td>
 </tr>
+<tr>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
+<br><b>C</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" />
+<br><strong>R</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
+<br><strong>SQL</strong>
+</td>
 </table>
 </tr>
 </table>
@@ -157,4 +178,3 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </td>
 </tr>
 </table>
-
