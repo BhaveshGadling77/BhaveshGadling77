@@ -133,13 +133,30 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 <br><b>Tailwind CSS</b>
 </td>
 </tr>
+</table>
+
+### 🗄️ Databases
+<table>
 <tr>
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48"/>
-<br><b>Firebase</b>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48"/>
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48"/>
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Cloud Firestore" width="48"/>
+<br><strong>Firestore</strong>
 </td>
 </tr>
 </table>
+
 <h3 align="center">🛠️ Development Tools</h3>
 
 <table align="center">
