@@ -135,7 +135,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 </tr>
 </table>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <table align="center">
 <tr align="center">
 <td align="center" width="120">
