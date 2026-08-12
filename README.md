@@ -137,7 +137,7 @@ My goal is to become a Software Engineer who transforms ideas into scalable, eff
 
 ### 🗄️ Databases
 <table align="center">
-<tr>
+<tr align="center">
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48"/>
 <br><strong>MongoDB</strong>
