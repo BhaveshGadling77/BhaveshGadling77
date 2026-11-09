@@ -37,7 +37,7 @@ I am deeply passionate about software development, not just writing code but und
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshGadling77&theme=transparent" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshGadling77&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaveshGadling77&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -45,9 +45,7 @@ I am deeply passionate about software development, not just writing code but und
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BhaveshGadling77&langs_count=10&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshGadling77&bg_color=transparent&color=58A6FF&line=58A6FF&point=1f6feb&area=true&area_color=58A6FF20&hide_border=true&custom_title=Bhavesh%20Gadling%20Contribution%20Graph" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhaveshGadling77&theme=transparent" width="100%"/>
@@ -66,7 +64,7 @@ I am deeply passionate about software development, not just writing code but und
 <br><b>C++</b>
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator-tsg.vercel.app/java-icon.svg" width="48" height="48"/>
+<img style="background: transparent" src="https://techstack-generator-tsg.vercel.app/java-icon.svg" width="48" height="48"/>
 <br><b>Java</b>
 </td>
 <td align="center" width="120">
